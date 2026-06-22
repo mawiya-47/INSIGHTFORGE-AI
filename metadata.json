@@ -1,0 +1,6 @@
+{
+  "name": "InsightForge AI",
+  "description": "Enterprise-grade Multi-Modal AI Data Analyst Platform for cleaning, exploring, forecasting, and generating insights from CSV, Excel, PDF, and image data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
